@@ -1,4 +1,8 @@
+<<<<<<< HEAD
  # 📝 To-Do API (Flask)
+=======
+# 📝 To-Do API (Flask)
+>>>>>>> ed7f516a1aeee508162131945c8452e0ef8c8fbf
 
 API REST simples desenvolvida em **Python + Flask**, com operações básicas de CRUD (Create, Read, Update e Delete) para gerenciamento de tarefas.
 
@@ -23,6 +27,7 @@ Projeto criado com foco em **aprendizado prático**, versionamento com GitHub e 
 - Atualizar tarefas
 - Deletar tarefas
 - API REST com respostas em JSON
+<<<<<<< HEAD
 
 ---
 
@@ -82,3 +87,13 @@ Servir como projeto inicial para estágio/júnior
 Desenvolvido por Nicolas Lakatos
 
 
+=======
+
+---
+
+## ▶️ Como executar o projeto
+
+### 1️⃣ Clonar o repositório
+```bash
+git clone https://github.com/lakat0sn/todo-api.git
+>>>>>>> ed7f516a1aeee508162131945c8452e0ef8c8fbf
